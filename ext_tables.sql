@@ -1,6 +1,6 @@
 CREATE TABLE static_countries (
-  cn_short_cz varchar(50) DEFAULT '' NOT NULL,
-  cn_official_name_cz varchar(128) DEFAULT '' NOT NULL,
+  cn_short_cz varchar(100) DEFAULT '' NOT NULL,
+  cn_official_name_cz varchar(200) DEFAULT '' NOT NULL,
   cn_capital_cz varchar(45) DEFAULT '' NOT NULL,
   KEY cn_short_cz (cn_short_cz)
 );
