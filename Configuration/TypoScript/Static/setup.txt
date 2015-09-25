@@ -1,0 +1,6 @@
+plugin.tx_staticinfotables_pi1 {
+	currencyCode = EUR
+	countryCode = CZE
+	countryZoneCode =
+	languageCode = CZ
+}
