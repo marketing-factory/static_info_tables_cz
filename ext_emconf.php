@@ -14,7 +14,7 @@ $EM_CONF[$_EXTKEY] = [
     'title' => 'Static Info Tables (cz)',
     'description' => '(cz) language pack for the Static Info Tables providing localized names for countries.',
     'category' => 'misc',
-    'version' => '1.0.1',
+    'version' => '6.3.0',
     'state' => 'stable',
     'uploadfolder' => 0,
     'createDirs' => '',
@@ -24,9 +24,9 @@ $EM_CONF[$_EXTKEY] = [
     'author_company' => 'Marketing Factory Consulting GmbH',
     'constraints' => [
         'depends' => [
-            'static_info_tables' => '6.0.0-6.2.99',
+            'static_info_tables' => '6.0.0-6.3.99',
             'php' => '5.3.0-5.6.99',
-            'typo3' => '6.2.0-6.2.99',
+            'typo3' => '6.2.0-7.6.99',
         ],
         'conflicts' => [
         ],
