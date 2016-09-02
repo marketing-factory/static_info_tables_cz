@@ -24,6 +24,9 @@
 			<trans-unit id="static_currencies_item.cu_sub_name_cz" xml:space="preserve">
 				<source>Sub name (CZ):</source>
 			</trans-unit>
+			<trans-unit id="static_countries_item.cn_capital_cz" xml:space="preserve">
+				<source>Capital (CZ):</source>
+			</trans-unit>
 		</body>
 	</file>
 </xliff>
