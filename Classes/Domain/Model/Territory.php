@@ -42,7 +42,7 @@ class Territory extends AbstractEntity
     /**
      * Sets the Czech name of the territory
      *
-     * @param string $namePl
+     * @param string $nameCz
      *
      * @return void
      */
